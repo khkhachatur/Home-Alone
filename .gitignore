@@ -1,0 +1,25 @@
+# --- ENVIRONMENT FILES ---
+.env
+*.env
+
+# --- PYTHON CACHE ---
+__pycache__/
+*.pyc
+*.pyo
+
+# --- EDITOR FILES ---
+.vscode/
+.idea/
+
+# --- SYSTEM FILES ---
+.DS_Store
+Thumbs.db
+
+
+*.pt
+*.onnx
+*.pth
+
+# --- temp files ---
+temp_*.jpg
+temp/
